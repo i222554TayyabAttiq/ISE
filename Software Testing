@@ -1,1 +1,11 @@
 White Box Testing:
+      white box testing sometimes calles glass box testing or structural testing,clear box testing and transparent box testing.
+      It is is a method of testing software that tests internal structures or workings of an application.
+      In white box testing an internal prespective of the sytem and programming skills are recquired and ued to dsign test cases.
+      PROS:
+          > In this,As knowledge of internal coding structure is recquired/ necessary so it becomes easy to find that which type of input / data can help in testing the application effectively.
+          > In white box testing errors are revealed in code.
+      CONS:
+          > as the konowledge of internal coding structure is recquired so a skilled tester is needed to test apploication.
+      
+      
